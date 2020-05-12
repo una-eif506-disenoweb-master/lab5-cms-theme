@@ -18,10 +18,10 @@ Lo que se solicita:
 ## Crear el Tema
 
 - Crear un subtema con el nombre en el siguiente formato
-    - **LabDrupalCedulaEstudiante**
+    - **labdrupalcedulaestudiante**
     - Crear o modificar el CSS
     - Agregar y modificar los templates necesarios para que se vea el sitio web similar a los wireframes
-    - Comprimirlo en ZIP, el nombre del archivo seria: **LabDrupal110600434.zip**
+    - Comprimirlo en ZIP, el nombre del archivo seria: **labdrupal110600434.zip**
     - Instalarlo en la instancia que esta en la nube y que corresponde al grupo a que pertenece el estudiante.
 
 *NOTA: únicamente versionar dentro de GitHub los archivos necesarios para el subtema, este es el punto que estaré evaluando*
